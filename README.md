@@ -21,4 +21,4 @@ What's in the Project
 
 6: Model Evaluation
 
-7: Feature importance and Conclusion
+7: Feature importance and Conclusion.
