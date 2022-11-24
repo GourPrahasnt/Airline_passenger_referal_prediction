@@ -16,4 +16,4 @@ What's in the Project
 
 4: Model Building
 
-5: Model Evaluation.
+5: Model Evaluation
