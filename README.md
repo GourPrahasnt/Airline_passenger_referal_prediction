@@ -7,18 +7,18 @@ Air transport or aviation plays a very important role in the present transport s
 
 Data is scrapped in the Spring of 2019 from the Skytrax website. Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple-choice and free-text questions. The main objective is to predict whether passengers will refer the airline to them or not.
 
-##What's in the Project
+## What's in the Project
 
-##1: EDA
+## 1: EDA
 
-##2: Data Cleaning
+## 2: Data Cleaning
 
-##3: Feature Engineering
+## 3: Feature Engineering
 
-##4: Data Preprocessing
+## 4: Data Preprocessing
 
-##5: Model Building
+## 5: Model Building
 
-##6: Model Evaluation
+## 6: Model Evaluation
 
-##7: Feature importance and Conclusion.
+## 7: Feature importance and Conclusion.
