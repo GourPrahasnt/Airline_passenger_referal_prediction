@@ -23,4 +23,4 @@ Data is scrapped in the Spring of 2019 from the Skytrax website. Data includes a
 
 ## 6: Model Evaluation
 
-## 7: Feature importance and Conclusion
+## 7: Feature importance and Conclusion 
